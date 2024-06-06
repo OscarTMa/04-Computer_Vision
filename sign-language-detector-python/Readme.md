@@ -42,3 +42,46 @@ This script captures video from the webcam and displays it in a window. Press 'q
 ### File 2: data_collection.py
 This script collects images for each class of the sign language dataset using the webcam.
 
+### File 3: data_processing.py
+This script processes collected images, extracting hand landmarks using MediaPipe and saving the processed data to a pickle file.
+
+### File 4: sign_language_detection.py
+This script captures live video from the webcam, processes the frames to detect hand landmarks, and uses a trained model to classify the sign language gestures.
+
+### File 5: model_training.py
+This script trains a RandomForestClassifier using the processed hand landmark data and saves the trained model to a pickle file.
+
+### Project Structure
+sign-language-detector-python/
+├── data/
+│   ├── 0/
+│   ├── 1/
+│   └── 2/
+├── models/
+│   └── model.p
+├── webcam_capture.py
+├── data_collection.py
+├── data_processing.py
+├── sign_language_detection.py
+├── model_training.py
+├── data.pickle
+├── requirements.txt
+└── README.md
+
+### Contributing
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/new-feature).
+3. Commit your changes (git commit -am 'Add new feature').
+4. Push to the branch (git push origin feature/new-feature).
+5. Open a Pull Request.
+   
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Authors
+https://github.com/computervisioneng/sign-language-detector-python
+
+### References
+OpenCV Documentation
+MediaPipe Documentation
+
