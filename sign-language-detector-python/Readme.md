@@ -52,8 +52,6 @@ This script captures live video from the webcam, processes the frames to detect 
 This script trains a RandomForestClassifier using the processed hand landmark data and saves the trained model to a pickle file.
 
 ### Project Structure
-sign-language-detector-python/
-
 ├── data/
 │   ├── 0/
 │   ├── 1/
