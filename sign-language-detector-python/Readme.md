@@ -53,6 +53,7 @@ This script trains a RandomForestClassifier using the processed hand landmark da
 
 ### Project Structure
 sign-language-detector-python/
+
 ├── data/
 │   ├── 0/
 │   ├── 1/
