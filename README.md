@@ -27,9 +27,10 @@ This project utilizes computer vision techniques to [project goal, e.g., "detect
 
 ## Usage
 To run the main script:
-
+```
+sh
 python main.py --input image.jpg
-
+```
 
 ## Project Structure
 ├── data
