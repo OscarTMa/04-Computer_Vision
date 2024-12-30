@@ -12,7 +12,7 @@ This project utilizes computer vision techniques to [project goal, e.g., "detect
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Authors](#authors)
+- [Contact](#contact)
 
 ## Installation
 1. Clone the repository:
@@ -57,9 +57,8 @@ python main.py --input image.jpg
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Authors
-- [Oscar Tibaduiza ](https://github.com/oscartma)
-
+## Contact
+If you have any questions or suggestions, please feel free to open an issue or contact me at oscartibaduiza@hotmail.com.
 
 ## References
 - [OpenCV Documentation](https://opencv.org/documentation/)
