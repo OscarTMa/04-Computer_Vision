@@ -17,8 +17,8 @@ This project utilizes computer vision techniques to [project goal, e.g., "detect
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/oscartma/your_project.git
-   cd your_project
+   git clone https://github.com/oscartma/Computer_Vision.git
+   cd Computer_Vision
 
 2. python -m venv env
    source env/bin/activate # On Windows use `env\Scripts\activate`
