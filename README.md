@@ -33,19 +33,19 @@ python main.py --input image.jpg
 ```
 
 ## Project Structure
-├── data
-│   ├── raw
-│   └── processed
-├── src
-│   ├── __init__.py
-│   ├── data_loader.py
-│   ├── model.py
-│   └── train.py
-├── tests
-│   └── test_model.py
-├── README.md
-├── requirements.txt
-└── main.py
+├── data                                              
+│   ├── raw                                              
+│   └── processed                                              
+├── src                                              
+│   ├── __init__.py                                              
+│   ├── data_loader.py                                              
+│   ├── model.py                                              
+│   └── train.py                                              
+├── tests                                              
+│   └── test_model.py                                              
+├── README.md                                              
+├── requirements.txt                                              
+└── main.py                                              
 
 ## Contributing
 1. Fork the repository.
