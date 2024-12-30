@@ -58,7 +58,7 @@ python main.py --input image.jpg
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Authors
-- [Author Name](https://github.com/oscartma)
+- [Author ](https://github.com/oscartma)
 
 
 ## References
